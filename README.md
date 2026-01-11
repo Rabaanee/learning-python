@@ -1,5 +1,7 @@
 # learning-python
-Showing my progression learning python 
+
+Showing my progression learning Python.
+
 ## Character Creation Function
 
 A small Python exercise focusing on:
